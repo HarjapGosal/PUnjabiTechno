@@ -1,1 +1,1 @@
-# PUnjabiTechno
+I (Harjap Gosal) have started a PunjabiTechno club that focuses on the technical development of the Punjabi language, and this GitHub repository is dedicated to the development, harmonization, and sharing of multiple knowledge resources, diverse methodologies, and a variety of tools with the aim of understanding, extraction, and retrieval from unstructured Punjabi language text. This work falls under the area of Natural Language Processing (NLP), a branch of Artificial Intelligence (AI) that enables machines to understand and process the human language.
