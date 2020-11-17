@@ -1,3 +1,5 @@
+# PunjabiTechno Club <h1>
+  
 The Punjabi language is written in two scripts, namely Gurmukhi and Shahmukhi. Gurmukhi script is the script used for writing Punjabi, mostly in East Punjab. Punjabi is most commonly written in the Gurmukhi script. Gurmukhi script is considered to be a complete and accurate way to represent Punjabi sounds, and it follows a ‘one sound-one symbol’ principle [1]. Shahmukhi script is the way of writing the Punjabi language in the Persian script and followed mostly in western Punjab.
 
 There are efforts by many researchers, groups, and organizations to work on the different aspects of Punjabi language processing. But like other Indian languages, a lot of work remains to be done in the field of Punjabi language processing.
@@ -6,6 +8,6 @@ I, Harjap Gosal, have started a PunjabiTechno club that focuses on the technical
 
 Our current focus is on building resources for the technical development of the Punjabi language in Gurmukhi Script.
 
-
+**References:**
 1. Let us Learn Punjabi. [29 March 2020, Date last accessed]; Available from: http://www.learnpunjabi.org/intro1.asp.
 
