@@ -12,6 +12,7 @@ The **tasks** currently undertaken by the club are:
 * Building a **Punjabi SentiWordNet** (Resource for Opinionated words).
 * **Punjabi corpus (words)** extracted from a variety of unstructured text.
 * Non-English Usage of **Indian Food Terms in Punjabi**.
+* Some of my **creative writing works in Punjabi with English Translation**.
 
 
 **References:**
