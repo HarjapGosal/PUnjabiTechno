@@ -8,6 +8,7 @@ The Punjabi language is written in two scripts, namely Gurmukhi and Shahmukhi. G
 There are efforts by many researchers, groups, and organizations to work on the different aspects of Punjabi language processing. But like other Indian languages, a lot of work remains to be done in the field of Punjabi language processing.
 
 The tasks currently undertaken by the club are:
+* Domain Model - Building a resource of domains to describe concepts for the Punjabi language
 * T
 
 
