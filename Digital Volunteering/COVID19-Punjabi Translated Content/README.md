@@ -1,0 +1,1 @@
+PunjabiTechno Club has translated and compiled a lot of COVID19 related information, such as FAQs, prevention guidelines and updates on vaccine development and availability. These have been distributed and displayed at notice boards of temples where there are large gatherings of old people on a continuous basis for better accessibility.
